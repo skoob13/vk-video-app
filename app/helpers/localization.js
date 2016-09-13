@@ -1,0 +1,56 @@
+// Import packet with localization
+import LocalizedStrings from 'react-native-localization';
+
+export const strings = new LocalizedStrings({
+  ru: {
+    APPLY_SAFE_FILTER: "ФИЛЬТР КОНТЕНТА",
+    APPLY_HD_FILTER: "ФИЛЬТР КАЧЕСТВА",
+    safe_search: "Безопасный поиск",
+    hd: "Только HD видеозаписи",
+    settings: "Настройки",
+    done: "Готово",
+    find: "Найти",
+    enter_search: "Введите поисковый запрос",
+    no_videos: "К сожалению, мы не нашли видеозаписей по вашему запросу!",
+    search: "Поиск",
+
+    January: "Январь",
+    February: "Февраль",
+    March: "Март",
+    April: "Апрель",
+    May: "Май",
+    June: "Июнь",
+    July: "Июль",
+    August: "Август",
+    September: "Сентябрь",
+    October: "Октябрь",
+    November: "Ноябрь",
+    December: "Декабрь",
+  },
+
+  en: {
+    APPLY_SAFE_FILTER: "APPLY SAFE FILTER",
+    APPLY_HD_FILTER: "APPLY HD FILTER",
+    safe_search: "Safe search",
+    hd: "HD videos only",
+    settings: "Settings",
+    done: "Done",
+    find: "Find",
+    enter_search: "Enter your search",
+    no_videos: "Sorry, but we did not find any videos!",
+    search: "Search",
+
+    January: "January",
+    February: "February",
+    March: "March",
+    April: "April",
+    May: "May",
+    June: "June",
+    July: "July",
+    August: "August",
+    September: "September",
+    October: "October",
+    November: "November",
+    December: "December",
+  },
+});

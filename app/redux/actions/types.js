@@ -1,0 +1,7 @@
+export const SET_SEARCHED_VIDEOS = 'SET_SEARCHED_VIDEOS';
+export const SET_MORE_SEARCHED_VIDEOS = 'SET_MORE_SEARCHED_VIDEOS';
+export const SET_NAVIGATOR_PATH = 'SET_NAVIGATOR_PATH';
+export const SET_SORT_TYPE = 'SET_SORT_TYPE';
+
+// Storage consts
+export const SET_SETTINGS = 'SET_SETTINGS';
