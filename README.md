@@ -8,7 +8,7 @@
 
 ## About
 
-This application uses __React Native__, __Redux__ and __VK API__ to search through and display videos from popular russian social network [vk.ru](http://vk.ru)
+This application uses __React Native__, __Redux__ and __VK API__ to search through and display videos from popular russian social network [vk.com](http://vk.com)
 Code is written to be universal for Android and iOS, no custom platform components are used.
 
 ##Usage
